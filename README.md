@@ -6,10 +6,15 @@ Um projeto para gerenciar Oticas 👓 em todo mundo, criado e sendo desenvolvido
 Tenho em mente que Open-Source é o futuro da tecnologia no Brasil. Que tal ajudar, esse projeto a dominar o mundo 🌍?
 
 ## Índice
-- <a href="#-Tecnologias Utilizadas">Tecnologias Utilizadas</a>
-- <a href="#-Funcionalidades">Funcionalides</a>
-- <a href="#-Instalação">Instalação</a>
-- <a href="#-Contribuir">Contribuir</a>
+- <a href="#Tecnologias Utilizadas">Tecnologias Utilizadas</a>
+- <a href="#Funcionalides do Projeto 📱">Funcionalides</a>
+- <a href="#Instalação">Instalação</a>
+- <a href="#Contrubuição">Contribuir</a>
+
+## Tecnologias Utilizadas
+
+- <a href="https://www.java.com/">Java</a>
+- <a href="https://netbeans.apache.org/">IDE Apache NetBeans</a>
 
 ## Funcionalides do Projeto 📱
 
@@ -25,6 +30,6 @@ Tenho em mente que Open-Source é o futuro da tecnologia no Brasil. Que tal ajud
 
 - Em construção
 
-## Construbuição 
+## Contrubuição 
 
 - Em construção
