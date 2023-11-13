@@ -10,6 +10,7 @@ Tenho em mente que Open-Source é o futuro da tecnologia no Brasil. Que tal ajud
 - <a href="#Funcionalides do Projeto 📱">Funcionalides</a>
 - <a href="#Instalação">Instalação</a>
 - <a href="#Contrubuição">Contribuir</a>
+- <a href="#layout">Layout</a>
 
 ## Tecnologias Utilizadas
 
@@ -33,3 +34,17 @@ Tenho em mente que Open-Source é o futuro da tecnologia no Brasil. Que tal ajud
 ## Contrubuição 
 
 - Em construção
+
+## Layout
+
+- Clientes 
+
+![Tela de Gerenciamento do Cliente](github/readme/Cliente.png)
+
+- Funcionarios
+
+![Tela de Gerencimento do Funcionario](github/readme/funcionarios.png)
+
+- Tela Inicial
+
+![Tela Inicial](github/readme/image.png)
