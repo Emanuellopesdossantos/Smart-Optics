@@ -8,6 +8,7 @@ import java.text.DateFormat;
 import java.util.Date;
 import javax.swing.JOptionPane;
 
+
 /**
  *
  * @author edmar
@@ -18,8 +19,11 @@ public class Uiprincipal extends javax.swing.JFrame {
 
     public Uiprincipal() {
         initComponents();
+
+        
         
     }
+
 
     /**
      * This method is called from within the constructor to initialize the form.
@@ -62,11 +66,11 @@ public class Uiprincipal extends javax.swing.JFrame {
         desktop.setLayout(desktopLayout);
         desktopLayout.setHorizontalGroup(
             desktopLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 877, Short.MAX_VALUE)
+            .addGap(0, 918, Short.MAX_VALUE)
         );
         desktopLayout.setVerticalGroup(
             desktopLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 0, Short.MAX_VALUE)
+            .addGap(0, 598, Short.MAX_VALUE)
         );
 
         usuario.setFont(new java.awt.Font("Segoe UI", 1, 24)); // NOI18N
@@ -224,8 +228,10 @@ lbldata.setText(formatador.format(data));
 
     private void mencadasofcActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_mencadasofcActionPerformed
         UiCliente cliente = new UiCliente();
+        
         cliente.setVisible(true);
         desktop.add(cliente);
+        
     }//GEN-LAST:event_mencadasofcActionPerformed
 
     /**
